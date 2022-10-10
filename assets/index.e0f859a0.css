@@ -1,0 +1,1 @@
+*{font-family:sans-serif}p,span,label{color:#fff}body{display:flex;flex-direction:column;gap:1em;align-items:center;justify-content:center;min-width:100vmin;min-height:100vmin;background:#363636;margin:0}body>div{display:flex;gap:.5em}canvas{background:white;width:80vmin;height:80vmin;border-radius:1em;box-shadow:0 6px 20px #2b2b2b}
